@@ -1,0 +1,14 @@
+1.Difference Between Variabe,constant and literal?
+Variable:-
+A variable is a named location used to store data in the memory.
+eg. A=10
+Here, we have created a variable named A. We have assigned the value 10 to the variable.
+
+Constant:-
+A constant is a type of variable whose value cannot be changed.
+eg. pi=3.14
+
+Literals:-
+Literal is a raw data given in a variable or constant. 
+
+2.
